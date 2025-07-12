@@ -1,0 +1,200 @@
+[11-Jul-2025 17:16:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:16:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:16:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:16:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:16:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:16:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:16:31 UTC] PHP Fatal error:  Cannot redeclare generateToken() (previously declared in C:\xampp\htdocs\axiom\php\config.php:232) in C:\xampp\htdocs\axiom\php\functions.php on line 38
+[11-Jul-2025 17:16:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:16:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:16:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:16:37 UTC] PHP Fatal error:  Cannot redeclare generateToken() (previously declared in C:\xampp\htdocs\axiom\php\config.php:232) in C:\xampp\htdocs\axiom\php\functions.php on line 38
+[11-Jul-2025 17:16:51 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:16:51 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:16:51 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:16:51 UTC] PHP Fatal error:  Cannot redeclare generateToken() (previously declared in C:\xampp\htdocs\axiom\php\config.php:232) in C:\xampp\htdocs\axiom\php\functions.php on line 38
+[11-Jul-2025 17:16:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:16:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:16:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:16:57 UTC] PHP Fatal error:  Cannot redeclare generateToken() (previously declared in C:\xampp\htdocs\axiom\php\config.php:232) in C:\xampp\htdocs\axiom\php\functions.php on line 38
+[11-Jul-2025 17:16:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:16:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:16:58 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:17:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:17:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:17:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:17:06 UTC] PHP Fatal error:  Cannot redeclare generateToken() (previously declared in C:\xampp\htdocs\axiom\php\config.php:232) in C:\xampp\htdocs\axiom\php\functions.php on line 38
+[11-Jul-2025 17:17:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:17:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:17:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:17:08 UTC] PHP Fatal error:  Cannot redeclare generateToken() (previously declared in C:\xampp\htdocs\axiom\php\config.php:232) in C:\xampp\htdocs\axiom\php\functions.php on line 38
+[11-Jul-2025 17:17:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:17:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:17:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:17:09 UTC] PHP Fatal error:  Cannot redeclare generateToken() (previously declared in C:\xampp\htdocs\axiom\php\config.php:232) in C:\xampp\htdocs\axiom\php\functions.php on line 38
+[11-Jul-2025 17:17:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:17:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:17:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:18:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:18:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:18:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:18:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:18:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:18:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:18:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:18:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:18:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:18:26 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:18:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:18:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:18:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:18:31 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:18:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:18:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:18:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:18:32 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:18:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:18:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:18:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:18:37 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:18:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:18:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:18:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:18:49 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:00 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:03 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:12 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:12 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:12 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:12 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:12 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:12 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:13 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:13 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:19:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:19:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:19:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:19:20 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:26:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:26:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:26:43 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:27:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:27:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:27:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:27:49 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:29 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:30 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:30 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:31 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:31 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:31 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:31 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:32 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:32 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:32 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:32 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:32 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:32 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:32 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:32 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:28:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:28:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:28:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:28:33 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:37:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:37:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:37:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:38:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:38:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:38:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:38:18 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[11-Jul-2025 17:38:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[11-Jul-2025 17:38:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[11-Jul-2025 17:38:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[11-Jul-2025 17:38:20 UTC] PHP Fatal error:  Cannot redeclare logActivity() (previously declared in C:\xampp\htdocs\axiom\php\config.php:199) in C:\xampp\htdocs\axiom\php\functions.php on line 150
+[12-Jul-2025 05:41:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[12-Jul-2025 05:41:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[12-Jul-2025 05:41:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[12-Jul-2025 05:44:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[12-Jul-2025 05:44:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[12-Jul-2025 05:44:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[12-Jul-2025 05:45:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[12-Jul-2025 05:45:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[12-Jul-2025 05:45:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[12-Jul-2025 05:45:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[12-Jul-2025 05:45:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[12-Jul-2025 05:45:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132
+[12-Jul-2025 08:29:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 130
+[12-Jul-2025 08:29:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 131
+[12-Jul-2025 08:29:52 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 132

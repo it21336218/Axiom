@@ -1,0 +1,1751 @@
+[12-Jul-2025 10:40:47 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 57
+[12-Jul-2025 10:40:47 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 58
+[12-Jul-2025 10:40:47 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 59
+[12-Jul-2025 08:41:16 UTC] Registration attempt with data: Array
+(
+    [firstName] => Sonal
+    [lastName] => Shaminda
+    [username] => sonal
+    [email] => sonal@gmail.com
+    [phone] => (947) 109-78668
+    [country] => 
+    [password] => sonal123
+    [confirmPassword] => sonal123
+    [terms] => on
+)
+
+[12-Jul-2025 08:41:17 UTC] Registration attempt with data: Array
+(
+    [firstName] => Sonal
+    [lastName] => Shaminda
+    [username] => sonal
+    [email] => sonal@gmail.com
+    [phone] => (947) 109-78668
+    [country] => 
+    [password] => sonal123
+    [confirmPassword] => sonal123
+    [terms] => on
+)
+
+[12-Jul-2025 08:41:24 UTC] Registration attempt with data: Array
+(
+    [firstName] => Sonal
+    [lastName] => Shaminda
+    [username] => sonal
+    [email] => sonal@gmail.com
+    [phone] => (947) 109-78668
+    [country] => 
+    [password] => sonal123
+    [confirmPassword] => sonal123
+    [terms] => on
+)
+
+[12-Jul-2025 10:42:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 57
+[12-Jul-2025 10:42:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 58
+[12-Jul-2025 10:42:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\axiom\php\config.php on line 59
+[12-Jul-2025 08:50:42 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 08:50:42 UTC] Database connection successful
+[12-Jul-2025 08:50:50 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 08:50:50 UTC] Database connection successful
+[12-Jul-2025 08:52:09 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 08:52:09 UTC] Database connection successful
+[12-Jul-2025 08:54:29 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local 
+    [password] => admin123
+)
+
+[12-Jul-2025 08:54:29 UTC] Database connection successful
+[12-Jul-2025 08:54:29 UTC] Found admin user: Array
+(
+    [id] => 1
+    [email] => admin@axiom.local
+    [password] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+)
+
+[12-Jul-2025 08:54:29 UTC] Expected hash for admin123: $2y$10$pxh/xHWGCRwDlGtGvKnwhe57XGL8mVqW.MN2MAb2y3T3H7P93wHjC
+[12-Jul-2025 08:54:29 UTC] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[12-Jul-2025 08:54:29 UTC] Password verify result: false
+[12-Jul-2025 08:57:56 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 08:57:56 UTC] Database connection successful
+[12-Jul-2025 08:57:56 UTC] Found admin user: Array
+(
+    [id] => 1
+    [email] => admin@axiom.local
+    [password] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+)
+
+[12-Jul-2025 08:57:56 UTC] Expected hash for admin123: $2y$10$tkzHsfE9RI/6YmO0bPITKuOpKaf9/cfsAd9yrbTcGh234nXRz8/k.
+[12-Jul-2025 08:57:56 UTC] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[12-Jul-2025 08:57:56 UTC] Password verify result: false
+[12-Jul-2025 08:58:54 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 08:59:15 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:01:20 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 09:03:11 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 09:03:14 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 09:06:02 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 09:06:04 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 09:08:45 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 09:08:45 UTC] Database connection successful
+[12-Jul-2025 09:08:45 UTC] Found admin user: Array
+(
+    [id] => 1
+    [email] => admin@axiom.local
+    [password] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+)
+
+[12-Jul-2025 09:08:45 UTC] Expected hash for admin123: $2y$10$5gY8BgAkbOUS2dbhj1Jsn.iZmxy8t9eo8t2g0qS3a6FWRr4uZxPPS
+[12-Jul-2025 09:08:45 UTC] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[12-Jul-2025 09:08:45 UTC] Password verify result: false
+[12-Jul-2025 09:08:56 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+)
+
+[12-Jul-2025 09:08:56 UTC] Database connection successful
+[12-Jul-2025 09:08:56 UTC] Found admin user: Array
+(
+    [id] => 1
+    [email] => admin@axiom.local
+    [password] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+)
+
+[12-Jul-2025 09:08:56 UTC] Expected hash for admin123: $2y$10$KIK8WuN0c2ayEBtLJglHoulyggJhnWXH3xqp9bGwvtQVrVVFKmJRu
+[12-Jul-2025 09:08:56 UTC] Stored hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+[12-Jul-2025 09:08:57 UTC] Password verify result: false
+[12-Jul-2025 09:09:37 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:37 UTC] Database connection successful
+[12-Jul-2025 09:09:40 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:40 UTC] Database connection successful
+[12-Jul-2025 09:09:41 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:41 UTC] Database connection successful
+[12-Jul-2025 09:09:41 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:41 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:41 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:42 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:42 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:42 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:42 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+)
+
+[12-Jul-2025 09:09:55 UTC] Login attempt with data: Array
+(
+    [email] => demo@axiom.local
+    [password] => demo123
+    [remember] => on
+)
+
+[12-Jul-2025 09:12:58 UTC] Database connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[12-Jul-2025 09:12:58 UTC] Auth constructor error: Database connection failed
+[12-Jul-2025 09:12:58 UTC] PHP Fatal error:  Uncaught Exception: Database connection failed in C:\xampp\htdocs\axiom\php\auth.php:16
+Stack trace:
+#0 C:\xampp\htdocs\axiom\pages\login.php(7): Auth->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\axiom\php\auth.php on line 16
+[12-Jul-2025 09:18:21 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+    [remember] => on
+)
+
+[12-Jul-2025 09:19:05 UTC] Login attempt with data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+    [remember] => on
+)
+
+[12-Jul-2025 09:22:38 UTC] PHP Fatal error:  Cannot redeclare getClientIP() (previously declared in C:\xampp\htdocs\axiom\php\config.php:262) in C:\xampp\htdocs\axiom\php\functions.php on line 307
+[12-Jul-2025 09:22:41 UTC] PHP Fatal error:  Cannot redeclare getClientIP() (previously declared in C:\xampp\htdocs\axiom\php\config.php:262) in C:\xampp\htdocs\axiom\php\functions.php on line 307
+[12-Jul-2025 09:22:42 UTC] PHP Fatal error:  Cannot redeclare getClientIP() (previously declared in C:\xampp\htdocs\axiom\php\config.php:262) in C:\xampp\htdocs\axiom\php\functions.php on line 307
+[12-Jul-2025 09:24:20 UTC] PHP Fatal error:  Cannot redeclare getClientIP() (previously declared in C:\xampp\htdocs\axiom\php\config.php:262) in C:\xampp\htdocs\axiom\php\functions.php on line 307
+[12-Jul-2025 09:28:19 UTC] PHP Fatal error:  Cannot redeclare getClientIP() (previously declared in C:\xampp\htdocs\axiom\php\config.php:262) in C:\xampp\htdocs\axiom\php\functions.php on line 308
+[12-Jul-2025 09:28:21 UTC] PHP Fatal error:  Cannot redeclare getClientIP() (previously declared in C:\xampp\htdocs\axiom\php\config.php:262) in C:\xampp\htdocs\axiom\php\functions.php on line 308
+[12-Jul-2025 09:32:20 UTC] PHP Fatal error:  Cannot redeclare getClientIP() (previously declared in C:\xampp\htdocs\axiom\php\config.php:262) in C:\xampp\htdocs\axiom\php\functions.php on line 58
+[12-Jul-2025 09:32:23 UTC] PHP Fatal error:  Cannot redeclare getClientIP() (previously declared in C:\xampp\htdocs\axiom\php\config.php:262) in C:\xampp\htdocs\axiom\php\functions.php on line 58
+[12-Jul-2025 09:32:58 UTC] PHP Warning:  Constant AXIOM_ACCESS already defined in C:\xampp\htdocs\axiom\php\functions.php on line 9
+[12-Jul-2025 09:32:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\axiom\php\functions.php:268) in C:\xampp\htdocs\axiom\php\setup_database.php on line 14
+[12-Jul-2025 09:34:07 UTC] PHP Warning:  Constant AXIOM_ACCESS already defined in C:\xampp\htdocs\axiom\php\functions.php on line 9
+[12-Jul-2025 09:34:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\axiom\php\functions.php:268) in C:\xampp\htdocs\axiom\php\login_handler.php on line 14
+[12-Jul-2025 09:34:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\axiom\php\functions.php:268) in C:\xampp\htdocs\axiom\php\login_handler.php on line 15
+[12-Jul-2025 09:34:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\axiom\php\functions.php:268) in C:\xampp\htdocs\axiom\php\login_handler.php on line 16
+[12-Jul-2025 09:34:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\axiom\php\functions.php:268) in C:\xampp\htdocs\axiom\php\login_handler.php on line 17
+[12-Jul-2025 09:34:08 UTC] Login attempt started
+[12-Jul-2025 09:34:08 UTC] POST data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+    [remember] => on
+)
+
+[12-Jul-2025 09:34:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkRateLimit() in C:\xampp\htdocs\axiom\php\login_handler.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\axiom\php\login_handler.php on line 50
+[12-Jul-2025 09:34:45 UTC] PHP Warning:  Constant AXIOM_ACCESS already defined in C:\xampp\htdocs\axiom\php\functions.php on line 9
+[12-Jul-2025 09:34:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\axiom\php\functions.php:268) in C:\xampp\htdocs\axiom\php\login_handler.php on line 14
+[12-Jul-2025 09:34:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\axiom\php\functions.php:268) in C:\xampp\htdocs\axiom\php\login_handler.php on line 15
+[12-Jul-2025 09:34:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\axiom\php\functions.php:268) in C:\xampp\htdocs\axiom\php\login_handler.php on line 16
+[12-Jul-2025 09:34:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\axiom\php\functions.php:268) in C:\xampp\htdocs\axiom\php\login_handler.php on line 17
+[12-Jul-2025 09:34:45 UTC] Login attempt started
+[12-Jul-2025 09:34:45 UTC] POST data: Array
+(
+    [email] => admin@axiom.local
+    [password] => admin123
+    [remember] => on
+)
+
+[12-Jul-2025 09:34:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkRateLimit() in C:\xampp\htdocs\axiom\php\login_handler.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\axiom\php\login_handler.php on line 50
+[12-Jul-2025 15:09:32 UTC] Login attempt started
+[12-Jul-2025 15:09:32 UTC] POST data: Array
+(
+    [email] => admin@axiom.local 
+    [password] => admin123
+    [remember] => on
+)
+
+[12-Jul-2025 15:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkRateLimit() in C:\xampp\htdocs\axiom\php\login_handler.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\axiom\php\login_handler.php on line 50
+[12-Jul-2025 15:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize() in C:\xampp\htdocs\axiom\php\contact_handler.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\axiom\php\contact_handler.php on line 31
+[12-Jul-2025 15:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize() in C:\xampp\htdocs\axiom\php\contact_handler.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\axiom\php\contact_handler.php on line 31
+[12-Jul-2025 15:10:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize() in C:\xampp\htdocs\axiom\php\contact_handler.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\axiom\php\contact_handler.php on line 31
+[12-Jul-2025 15:11:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize() in C:\xampp\htdocs\axiom\php\contact_handler.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\axiom\php\contact_handler.php on line 31
+[12-Jul-2025 15:37:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 16:19:50 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\axiom\php\functions.php on line 253
+[12-Jul-2025 16:19:52 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\axiom\php\functions.php on line 253
+[12-Jul-2025 16:21:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 16:23:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 16:24:26 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\axiom\php\functions.php on line 253
+[12-Jul-2025 16:36:44 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\axiom\php\contact_handler.php on line 110
+[12-Jul-2025 16:37:10 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\axiom\php\contact_handler.php on line 110
+[12-Jul-2025 16:38:44 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\axiom\php\contact_handler.php on line 110
+[12-Jul-2025 16:38:57 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\axiom\php\contact_handler.php on line 110
+[12-Jul-2025 16:39:20 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\axiom\php\contact_handler.php on line 110
+[12-Jul-2025 16:43:04 UTC] Contact form data received: Array
+(
+    [firstName] => Sonal
+    [lastName] => Shaminda
+    [email] => sahanfernando822@gmail.com
+    [phone] => +94710978668
+    [subject] => 999
+    [messageText] => 9999999 999 99999999
+)
+
+[12-Jul-2025 16:43:04 UTC] Extracted data - First: Sonal, Last: Shaminda, Email: sahanfernando822@gmail.com, Subject: 999
+[12-Jul-2025 16:43:04 UTC] Database connection successful
+[12-Jul-2025 16:43:04 UTC] Contact form submitted successfully
+[12-Jul-2025 17:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in C:\xampp\htdocs\axiom\php\upload_handler.php:150
+Stack trace:
+#0 C:\xampp\htdocs\axiom\php\upload_handler.php(82): resizeImage('C:\\xampp\\htdocs...', 300, 300)
+#1 C:\xampp\htdocs\axiom\php\upload_handler.php(33): uploadProfilePicture(Object(Auth), 7)
+#2 {main}
+  thrown in C:\xampp\htdocs\axiom\php\upload_handler.php on line 150
+[12-Jul-2025 17:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in C:\xampp\htdocs\axiom\php\upload_handler.php:150
+Stack trace:
+#0 C:\xampp\htdocs\axiom\php\upload_handler.php(82): resizeImage('C:\\xampp\\htdocs...', 300, 300)
+#1 C:\xampp\htdocs\axiom\php\upload_handler.php(33): uploadProfilePicture(Object(Auth), 7)
+#2 {main}
+  thrown in C:\xampp\htdocs\axiom\php\upload_handler.php on line 150
+[12-Jul-2025 17:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in C:\xampp\htdocs\axiom\php\upload_handler.php:150
+Stack trace:
+#0 C:\xampp\htdocs\axiom\php\upload_handler.php(82): resizeImage('C:\\xampp\\htdocs...', 300, 300)
+#1 C:\xampp\htdocs\axiom\php\upload_handler.php(33): uploadProfilePicture(Object(Auth), 7)
+#2 {main}
+  thrown in C:\xampp\htdocs\axiom\php\upload_handler.php on line 150
+[12-Jul-2025 17:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\axiom\php\upload_handler.php:153
+Stack trace:
+#0 C:\xampp\htdocs\axiom\php\upload_handler.php(82): resizeImage('C:\\xampp\\htdocs...', 300, 300)
+#1 C:\xampp\htdocs\axiom\php\upload_handler.php(33): uploadProfilePicture(Object(Auth), 7)
+#2 {main}
+  thrown in C:\xampp\htdocs\axiom\php\upload_handler.php on line 153
+[12-Jul-2025 17:44:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 17:47:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 17:51:00 UTC] POST data received: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sahan@gmail.com
+    [phone] => (947) 109-78668
+    [location] => AU
+    [website] => 
+    [bio] => 
+    [action] => update_profile
+)
+
+[12-Jul-2025 17:51:00 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal0
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:00 UTC] Processing action: update_profile for user ID: 7
+[12-Jul-2025 17:51:00 UTC] Starting profile update for user: 7
+[12-Jul-2025 17:51:00 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sahan@gmail.com
+    [phone] => (947) 109-78668
+    [location] => AU
+    [website] => 
+    [bio] => 
+)
+
+[12-Jul-2025 17:51:00 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 17:51:00 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal","last_name":"Shaminda","email":"sahan@gmail.com","phone":"(947) 109-78668","location":"AU","website":"","bio":""}}}
+[12-Jul-2025 17:51:20 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:20 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:20 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:20 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:20 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:20 UTC] New password provided: Yes
+[12-Jul-2025 17:51:20 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:20 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:20 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:21 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:21 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:21 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:21 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:21 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:21 UTC] New password provided: Yes
+[12-Jul-2025 17:51:21 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:21 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:21 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:21 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:21 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:21 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:21 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:21 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:21 UTC] New password provided: Yes
+[12-Jul-2025 17:51:21 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:21 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:21 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:21 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:21 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:21 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:21 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:21 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:21 UTC] New password provided: Yes
+[12-Jul-2025 17:51:21 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:21 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:21 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:22 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:22 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:22 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:22 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:22 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:22 UTC] New password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:22 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:22 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:22 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:22 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:22 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:22 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:22 UTC] New password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:22 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:22 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:22 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:22 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:22 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:22 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:22 UTC] New password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:22 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:22 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:22 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:22 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:22 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:22 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:22 UTC] New password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:22 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:22 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:22 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:22 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:22 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:22 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:22 UTC] New password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:22 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:22 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:22 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:22 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:22 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:22 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:22 UTC] New password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:22 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:22 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:22 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:22 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:22 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:22 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:22 UTC] New password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:22 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:22 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:23 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:23 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:23 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:23 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:23 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:23 UTC] New password provided: Yes
+[12-Jul-2025 17:51:23 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:23 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:23 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:23 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:23 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:23 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:23 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:23 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:23 UTC] New password provided: Yes
+[12-Jul-2025 17:51:23 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:23 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:23 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:23 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 17:51:23 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:51:23 UTC] Processing action: change_password for user ID: 7
+[12-Jul-2025 17:51:23 UTC] Starting password change for user: 7
+[12-Jul-2025 17:51:23 UTC] Current password provided: Yes
+[12-Jul-2025 17:51:23 UTC] New password provided: Yes
+[12-Jul-2025 17:51:23 UTC] Confirm password provided: Yes
+[12-Jul-2025 17:51:23 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 17:51:23 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 17:51:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 17:54:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\axiom\php\upload_handler.php:153
+Stack trace:
+#0 C:\xampp\htdocs\axiom\php\upload_handler.php(82): resizeImage('C:\\xampp\\htdocs...', 300, 300)
+#1 C:\xampp\htdocs\axiom\php\upload_handler.php(33): uploadProfilePicture(Object(Auth), 7)
+#2 {main}
+  thrown in C:\xampp\htdocs\axiom\php\upload_handler.php on line 153
+[12-Jul-2025 17:55:00 UTC] POST data received: Array
+(
+    [first_name] => John
+    [last_name] => Doe
+    [email] => john@example.com
+    [phone] => 
+    [location] => 
+    [website] => 
+    [bio] => 
+    [action] => update_profile
+)
+
+[12-Jul-2025 17:55:00 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => sahan@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:55:00 UTC] Processing action: update_profile for user ID: 7
+[12-Jul-2025 17:55:00 UTC] Starting profile update for user: 7
+[12-Jul-2025 17:55:00 UTC] Profile data to update: Array
+(
+    [first_name] => John
+    [last_name] => Doe
+    [email] => john@example.com
+    [phone] => 
+    [location] => 
+    [website] => 
+    [bio] => 
+)
+
+[12-Jul-2025 17:55:00 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 17:55:00 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"John","last_name":"Doe","email":"john@example.com","phone":"","location":"","website":"","bio":""}}}
+[12-Jul-2025 17:56:04 UTC] Profile handler called with method: POST
+[12-Jul-2025 17:56:04 UTC] POST data: Array
+(
+    [first_name] => John1111
+    [last_name] => Doe
+    [email] => john@example.com
+    [phone] => 
+    [location] => 
+    [website] => 
+    [bio] => 
+    [action] => update_profile
+)
+
+[12-Jul-2025 17:56:04 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => john@example.com
+    [first_name] => John
+    [last_name] => Doe
+    [logged_in] => 1
+)
+
+[12-Jul-2025 17:56:04 UTC] Processing action: update_profile for user ID: 7
+[12-Jul-2025 17:56:04 UTC] Starting profile update for user: 7
+[12-Jul-2025 17:56:04 UTC] Profile data to update: Array
+(
+    [first_name] => John1111
+    [last_name] => Doe
+    [email] => john@example.com
+    [phone] => 
+    [location] => 
+    [website] => 
+    [bio] => 
+)
+
+[12-Jul-2025 17:56:04 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 17:56:04 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","timestamp":"2025-07-12 17:56:04","data":{"updated_data":{"first_name":"John1111","last_name":"Doe","email":"john@example.com","phone":"","location":"","website":"","bio":""}}}
+[12-Jul-2025 18:01:16 UTC] POST data received: Array
+(
+    [first_name] => John1111ss
+    [last_name] => Doe
+    [email] => john@example.com
+    [phone] => 
+    [location] => 
+    [website] => 
+    [bio] => 
+    [action] => update_profile
+)
+
+[12-Jul-2025 18:01:16 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => john@example.com
+    [first_name] => John1111
+    [last_name] => Doe
+    [logged_in] => 1
+)
+
+[12-Jul-2025 18:01:16 UTC] Processing action: update_profile for user ID: 7
+[12-Jul-2025 18:01:16 UTC] Starting profile update for user: 7
+[12-Jul-2025 18:01:16 UTC] Profile data to update: Array
+(
+    [first_name] => John1111ss
+    [last_name] => Doe
+    [email] => john@example.com
+    [phone] => 
+    [location] => 
+    [website] => 
+    [bio] => 
+)
+
+[12-Jul-2025 18:01:16 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 18:01:16 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"John1111ss","last_name":"Doe","email":"john@example.com","phone":"","location":"","website":"","bio":""}}}
+[12-Jul-2025 18:01:28 UTC] POST data received: Array
+(
+    [first_name] => Sonal
+    [last_name] => Doe
+    [email] => john@example.com
+    [phone] => 0710978668
+    [location] => 
+    [website] => 
+    [bio] => 
+    [action] => update_profile
+)
+
+[12-Jul-2025 18:01:28 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => john@example.com
+    [first_name] => John1111ss
+    [last_name] => Doe
+    [logged_in] => 1
+)
+
+[12-Jul-2025 18:01:28 UTC] Processing action: update_profile for user ID: 7
+[12-Jul-2025 18:01:28 UTC] Starting profile update for user: 7
+[12-Jul-2025 18:01:28 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal
+    [last_name] => Doe
+    [email] => john@example.com
+    [phone] => 0710978668
+    [location] => 
+    [website] => 
+    [bio] => 
+)
+
+[12-Jul-2025 18:01:28 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 18:01:28 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal","last_name":"Doe","email":"john@example.com","phone":"0710978668","location":"","website":"","bio":""}}}
+[12-Jul-2025 18:04:40 UTC] POST data received: Array
+(
+    [first_name] => Sonal
+    [last_name] => Doe1
+    [email] => john@example.com
+    [phone] => 0710978668
+    [location] => 
+    [website] => 
+    [bio] => 
+    [action] => update_profile
+)
+
+[12-Jul-2025 18:04:40 UTC] Session data: Array
+(
+    [user_id] => 7
+    [username] => sunna1
+    [email] => john@example.com
+    [first_name] => Sonal
+    [last_name] => Doe
+    [logged_in] => 1
+)
+
+[12-Jul-2025 18:04:40 UTC] Processing action: update_profile for user ID: 7
+[12-Jul-2025 18:04:40 UTC] Starting profile update for user: 7
+[12-Jul-2025 18:04:40 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal
+    [last_name] => Doe1
+    [email] => john@example.com
+    [phone] => 0710978668
+    [location] => 
+    [website] => 
+    [bio] => 
+)
+
+[12-Jul-2025 18:04:40 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 18:04:40 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal","last_name":"Doe1","email":"john@example.com","phone":"0710978668","location":"","website":"","bio":""}}}
+[12-Jul-2025 19:09:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 19:12:44 UTC] Contact form data received: Array
+(
+    [firstName] => Sonal
+    [lastName] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => +94710978668
+    [subject] => i want to buld web 
+    [messageText] => hi axiom i want to bult a site 
+)
+
+[12-Jul-2025 19:12:44 UTC] Extracted data - First: Sonal, Last: Shaminda, Email: sonalshaminda01@gmail.com, Subject: i want to buld web
+[12-Jul-2025 19:12:44 UTC] Database connection successful
+[12-Jul-2025 19:12:44 UTC] Contact form submitted successfully
+[12-Jul-2025 19:13:12 UTC] POST data received: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => sonal 
+    [action] => update_profile
+)
+
+[12-Jul-2025 19:13:12 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 19:13:12 UTC] Processing action: update_profile for user ID: 8
+[12-Jul-2025 19:13:12 UTC] Starting profile update for user: 8
+[12-Jul-2025 19:13:12 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => sonal 
+)
+
+[12-Jul-2025 19:13:12 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 19:13:12 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal","last_name":"Shaminda","email":"sonalshaminda01@gmail.com","phone":"(947) 109-78668","location":"other","website":"https:\/\/johndoe.com","bio":"sonal"}}}
+[12-Jul-2025 19:13:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in C:\xampp\htdocs\axiom\php\upload_handler.php:150
+Stack trace:
+#0 C:\xampp\htdocs\axiom\php\upload_handler.php(82): resizeImage('C:\\xampp\\htdocs...', 300, 300)
+#1 C:\xampp\htdocs\axiom\php\upload_handler.php(33): uploadProfilePicture(Object(Auth), 8)
+#2 {main}
+  thrown in C:\xampp\htdocs\axiom\php\upload_handler.php on line 150
+[12-Jul-2025 19:13:33 UTC] POST data received: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => sonal
+    [action] => update_profile
+)
+
+[12-Jul-2025 19:13:33 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 19:13:33 UTC] Processing action: update_profile for user ID: 8
+[12-Jul-2025 19:13:33 UTC] Starting profile update for user: 8
+[12-Jul-2025 19:13:33 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => sonal
+)
+
+[12-Jul-2025 19:13:33 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 19:13:33 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal","last_name":"Shaminda","email":"sonalshaminda01@gmail.com","phone":"(947) 109-78668","location":"other","website":"https:\/\/johndoe.com","bio":"sonal"}}}
+[12-Jul-2025 19:26:33 UTC] POST data received: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => sonal11
+    [action] => update_profile
+)
+
+[12-Jul-2025 19:26:33 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 19:26:33 UTC] Processing action: update_profile for user ID: 8
+[12-Jul-2025 19:26:33 UTC] Starting profile update for user: 8
+[12-Jul-2025 19:26:33 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => sonal11
+)
+
+[12-Jul-2025 19:26:33 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 19:26:33 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal","last_name":"Shaminda","email":"sonalshaminda01@gmail.com","phone":"(947) 109-78668","location":"other","website":"https:\/\/johndoe.com","bio":"sonal11"}}}
+[12-Jul-2025 19:27:23 UTC] POST data received: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+    [action] => update_profile
+)
+
+[12-Jul-2025 19:27:23 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 19:27:23 UTC] Processing action: update_profile for user ID: 8
+[12-Jul-2025 19:27:23 UTC] Starting profile update for user: 8
+[12-Jul-2025 19:27:23 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+)
+
+[12-Jul-2025 19:27:23 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 19:27:23 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal","last_name":"Shaminda","email":"sonalshaminda01@gmail.com","phone":"(947) 109-78668","location":"other","website":"https:\/\/johndoe.com","bio":"hi im  front dev"}}}
+[12-Jul-2025 19:34:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 20:19:01 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 20:19:01 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:19:01 UTC] Processing action: change_password for user ID: 8
+[12-Jul-2025 20:19:01 UTC] Starting password change for user: 8
+[12-Jul-2025 20:19:01 UTC] Current password provided: Yes
+[12-Jul-2025 20:19:01 UTC] New password provided: Yes
+[12-Jul-2025 20:19:01 UTC] Confirm password provided: Yes
+[12-Jul-2025 20:19:01 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 20:19:01 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 20:19:02 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 20:19:02 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:19:02 UTC] Processing action: change_password for user ID: 8
+[12-Jul-2025 20:19:02 UTC] Starting password change for user: 8
+[12-Jul-2025 20:19:02 UTC] Current password provided: Yes
+[12-Jul-2025 20:19:02 UTC] New password provided: Yes
+[12-Jul-2025 20:19:02 UTC] Confirm password provided: Yes
+[12-Jul-2025 20:19:02 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 20:19:02 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 20:19:03 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 20:19:03 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:19:03 UTC] Processing action: change_password for user ID: 8
+[12-Jul-2025 20:19:03 UTC] Starting password change for user: 8
+[12-Jul-2025 20:19:03 UTC] Current password provided: Yes
+[12-Jul-2025 20:19:03 UTC] New password provided: Yes
+[12-Jul-2025 20:19:03 UTC] Confirm password provided: Yes
+[12-Jul-2025 20:19:03 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 20:19:03 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 20:19:13 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234
+    [confirm_password] => sonal1234
+    [action] => change_password
+)
+
+[12-Jul-2025 20:19:13 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:19:13 UTC] Processing action: change_password for user ID: 8
+[12-Jul-2025 20:19:13 UTC] Starting password change for user: 8
+[12-Jul-2025 20:19:13 UTC] Current password provided: Yes
+[12-Jul-2025 20:19:13 UTC] New password provided: Yes
+[12-Jul-2025 20:19:13 UTC] Confirm password provided: Yes
+[12-Jul-2025 20:19:13 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 20:19:13 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 20:24:43 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => sonal1234@
+    [confirm_password] => sonal1234@
+    [action] => change_password
+)
+
+[12-Jul-2025 20:24:43 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:24:43 UTC] Processing action: change_password for user ID: 8
+[12-Jul-2025 20:24:43 UTC] Starting password change for user: 8
+[12-Jul-2025 20:24:43 UTC] Current password provided: Yes
+[12-Jul-2025 20:24:43 UTC] New password provided: Yes
+[12-Jul-2025 20:24:43 UTC] Confirm password provided: Yes
+[12-Jul-2025 20:24:43 UTC] Password strength validation failed: Password must contain at least one uppercase letter
+[12-Jul-2025 20:24:43 UTC] Sending error response: {"success":false,"message":"Password does not meet security requirements: Password must contain at least one uppercase letter"}
+[12-Jul-2025 20:25:29 UTC] POST data received: Array
+(
+    [current_password] => sonal123
+    [new_password] => Sonal@1234
+    [confirm_password] => Sonal@1234
+    [action] => change_password
+)
+
+[12-Jul-2025 20:25:29 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:25:29 UTC] Processing action: change_password for user ID: 8
+[12-Jul-2025 20:25:29 UTC] Starting password change for user: 8
+[12-Jul-2025 20:25:29 UTC] Current password provided: Yes
+[12-Jul-2025 20:25:29 UTC] New password provided: Yes
+[12-Jul-2025 20:25:29 UTC] Confirm password provided: Yes
+[12-Jul-2025 20:25:29 UTC] All validations passed, calling auth->changePassword
+[12-Jul-2025 20:25:29 UTC] Password change attempt for user ID: 8
+[12-Jul-2025 20:25:29 UTC] Password successfully changed for user ID: 8
+[12-Jul-2025 20:25:29 UTC] Password change result: Array
+(
+    [success] => 1
+    [message] => Password changed successfully
+)
+
+[12-Jul-2025 20:25:29 UTC] Sending success response: {"success":true,"message":"Password changed successfully"}
+[12-Jul-2025 20:25:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 20:27:12 UTC] POST data received: Array
+(
+    [action] => delete_account
+)
+
+[12-Jul-2025 20:27:12 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:27:12 UTC] Processing action: delete_account for user ID: 8
+[12-Jul-2025 20:27:12 UTC] Invalid action: delete_account
+[12-Jul-2025 20:27:12 UTC] Sending error response: {"success":false,"message":"Invalid action"}
+[12-Jul-2025 20:27:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 20:31:59 UTC] POST data received: Array
+(
+    [first_name] => Sonal1
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+    [action] => update_profile
+)
+
+[12-Jul-2025 20:31:59 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:31:59 UTC] Processing action: update_profile for user ID: 8
+[12-Jul-2025 20:31:59 UTC] Starting profile update for user: 8
+[12-Jul-2025 20:31:59 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal1
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+)
+
+[12-Jul-2025 20:31:59 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 20:31:59 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal1","last_name":"Shaminda","email":"sonalshaminda01@gmail.com","phone":"(947) 109-78668","location":"other","website":"https:\/\/johndoe.com","bio":"hi im  front dev"}}}
+[12-Jul-2025 20:32:09 UTC] POST data received: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+    [action] => update_profile
+)
+
+[12-Jul-2025 20:32:09 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal1
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:32:09 UTC] Processing action: update_profile for user ID: 8
+[12-Jul-2025 20:32:09 UTC] Starting profile update for user: 8
+[12-Jul-2025 20:32:09 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+)
+
+[12-Jul-2025 20:32:09 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 20:32:09 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal","last_name":"Shaminda","email":"sonalshaminda01@gmail.com","phone":"(947) 109-78668","location":"other","website":"https:\/\/johndoe.com","bio":"hi im  front dev"}}}
+[12-Jul-2025 20:33:58 UTC] POST data received: Array
+(
+    [action] => delete_account
+)
+
+[12-Jul-2025 20:33:58 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:33:58 UTC] Processing action: delete_account for user ID: 8
+[12-Jul-2025 20:33:58 UTC] Invalid action: delete_account
+[12-Jul-2025 20:33:58 UTC] Sending error response: {"success":false,"message":"Invalid action"}
+[12-Jul-2025 20:41:15 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:41:15 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:41:15 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:41:15 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:41:15 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:41:15 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:41:15 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:41:15 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:41:15 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:41:49 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:41:49 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:41:49 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:41:49 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:41:49 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:41:49 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:41:49 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:41:49 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:41:49 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:41:54 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:41:54 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:41:54 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:41:54 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:41:54 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:41:54 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:41:54 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:41:54 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:41:54 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:42:04 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:42:04 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:42:04 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:42:04 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:42:04 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:42:04 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:42:04 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:42:04 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:42:04 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:45:03 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:45:03 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:45:03 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:45:03 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:45:03 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:45:03 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:45:03 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:45:03 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:45:03 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:45:11 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:45:11 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:45:11 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:45:11 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:45:11 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:45:11 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:45:11 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:45:11 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:45:11 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:45:25 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:45:25 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:45:25 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:45:25 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:45:25 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:45:25 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:45:25 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:45:25 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:45:25 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:46:30 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:46:30 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:46:30 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:46:30 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:46:30 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:46:30 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:46:30 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:46:30 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:46:30 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:47:40 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:47:40 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:47:40 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:47:40 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:47:40 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:47:40 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:47:40 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:47:40 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:47:40 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:48:59 UTC] PHP Parse error:  syntax error, unexpected token "catch", expecting end of file in C:\xampp\htdocs\axiom\parts\navbar.php on line 58
+[12-Jul-2025 20:49:03 UTC] PHP Parse error:  syntax error, unexpected token "catch", expecting end of file in C:\xampp\htdocs\axiom\parts\navbar.php on line 58
+[12-Jul-2025 20:49:03 UTC] PHP Parse error:  syntax error, unexpected token "catch", expecting end of file in C:\xampp\htdocs\axiom\parts\navbar.php on line 58
+[12-Jul-2025 20:49:29 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:49:29 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:49:29 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:49:29 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:49:29 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:49:29 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:49:29 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:49:29 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:49:29 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:50:12 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:50:12 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:50:12 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:50:12 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:50:12 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:50:12 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:50:12 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:50:12 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:50:12 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:50:28 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:50:28 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:50:28 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:50:28 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:50:28 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:50:28 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:50:28 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:50:28 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:50:28 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:50:56 UTC] PHP Parse error:  syntax error, unexpected token "catch", expecting end of file in C:\xampp\htdocs\axiom\parts\navbar.php on line 73
+[12-Jul-2025 20:51:12 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:51:12 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:51:12 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:51:12 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:51:12 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:51:12 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:51:12 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:51:12 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:51:12 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:52:43 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:52:43 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:52:43 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:52:43 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:52:43 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:52:43 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:52:43 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:52:43 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:52:43 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:53:18 UTC] POST data received: Array
+(
+    [first_name] => Sonal2
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+    [action] => update_profile
+)
+
+[12-Jul-2025 20:53:18 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:53:18 UTC] Processing action: update_profile for user ID: 8
+[12-Jul-2025 20:53:18 UTC] Starting profile update for user: 8
+[12-Jul-2025 20:53:18 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal2
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+)
+
+[12-Jul-2025 20:53:18 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 20:53:18 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal2","last_name":"Shaminda","email":"sonalshaminda01@gmail.com","phone":"(947) 109-78668","location":"other","website":"https:\/\/johndoe.com","bio":"hi im  front dev"}}}
+[12-Jul-2025 20:54:29 UTC] PHP Warning:  Undefined variable $profilePicture in C:\xampp\htdocs\axiom\parts\navbar.php on line 24
+[12-Jul-2025 20:57:12 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:57:12 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 57
+[12-Jul-2025 20:57:12 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 59
+[12-Jul-2025 20:57:12 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 60
+[12-Jul-2025 20:57:12 UTC] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 93
+[12-Jul-2025 20:57:12 UTC] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\axiom\pages\profile.php on line 97
+[12-Jul-2025 20:57:12 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\axiom\pages\profile.php on line 103
+[12-Jul-2025 20:57:12 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 226
+[12-Jul-2025 20:57:12 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\axiom\pages\profile.php on line 321
+[12-Jul-2025 20:59:33 UTC] POST data received: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+    [action] => update_profile
+)
+
+[12-Jul-2025 20:59:33 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal2
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 20:59:33 UTC] Processing action: update_profile for user ID: 8
+[12-Jul-2025 20:59:33 UTC] Starting profile update for user: 8
+[12-Jul-2025 20:59:33 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+)
+
+[12-Jul-2025 20:59:33 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 20:59:33 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal","last_name":"Shaminda","email":"sonalshaminda01@gmail.com","phone":"(947) 109-78668","location":"other","website":"https:\/\/johndoe.com","bio":"hi im  front dev"}}}
+[12-Jul-2025 21:00:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 21:12:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 21:14:46 UTC] POST data received: Array
+(
+    [first_name] => Sonal2
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+    [action] => update_profile
+)
+
+[12-Jul-2025 21:14:46 UTC] Session data: Array
+(
+    [user_id] => 8
+    [username] => sonal
+    [email] => sonalshaminda01@gmail.com
+    [first_name] => Sonal
+    [last_name] => Shaminda
+    [logged_in] => 1
+)
+
+[12-Jul-2025 21:14:46 UTC] Processing action: update_profile for user ID: 8
+[12-Jul-2025 21:14:46 UTC] Starting profile update for user: 8
+[12-Jul-2025 21:14:46 UTC] Profile data to update: Array
+(
+    [first_name] => Sonal2
+    [last_name] => Shaminda
+    [email] => sonalshaminda01@gmail.com
+    [phone] => (947) 109-78668
+    [location] => other
+    [website] => https://johndoe.com
+    [bio] => hi im  front dev
+)
+
+[12-Jul-2025 21:14:46 UTC] Profile update result: Array
+(
+    [success] => 1
+    [message] => Profile updated successfully
+)
+
+[12-Jul-2025 21:14:46 UTC] Sending success response: {"success":true,"message":"Profile updated successfully","data":{"updated_data":{"first_name":"Sonal2","last_name":"Shaminda","email":"sonalshaminda01@gmail.com","phone":"(947) 109-78668","location":"other","website":"https:\/\/johndoe.com","bio":"hi im  front dev"}}}
+[12-Jul-2025 22:22:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 22:30:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\axiom\php\logout.php on line 44
+[12-Jul-2025 22:39:28 UTC] Contact form data received: Array
+(
+    [firstName] => Sonal
+    [lastName] => Shaminda
+    [email] => sahanfernando822@gmail.com
+    [phone] => +94710978668
+    [subject] => I want to buld modern web 
+    [messageText] => modern web with new tech 
+)
+
+[12-Jul-2025 22:39:28 UTC] Extracted data - First: Sonal, Last: Shaminda, Email: sahanfernando822@gmail.com, Subject: I want to buld modern web
+[12-Jul-2025 22:39:28 UTC] Database connection successful
+[12-Jul-2025 22:39:28 UTC] Contact form submitted successfully
